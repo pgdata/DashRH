@@ -26,6 +26,10 @@ Este dashboard de RH foi desenvolvido para acompanhar os principais indicadores 
 
 Este projeto teve como objetivo **aprimorar habilidades na criação de dashboards de Recursos Humanos usando Power BI**, com foco em segmentações e indicadores de desempenho organizacional. Também foi uma oportunidade de praticar o uso de visuais hierárquicos (como o gráfico de árvore) e filtros interativos.
 
+## 🎲 Fonte dos Dados
+
+Os dados utilizados neste dashboard são fictícios e foram criados apenas para fins educacionais e de demonstração durante o intensivão de Power BI da [Hashtagtreinamentos](https://www.hashtagtreinamentos.com).
+
 ## 🔗 Acesse o Dashboard Online
 
 [Clique aqui para acessar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjViMzQzNmQtNWU4Yi00MTIzLThlZGItZmYzZmQwZTNjOWM3IiwidCI6ImRiYTQ3MzJjLTU5ZWMtNDFlYi05NDdjLTdkN2UxOTUzOWRhYSJ9)
